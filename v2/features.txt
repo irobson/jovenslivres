@@ -1,0 +1,10 @@
+Jovens Livres:
+
+Incluir logo
+Melhorar o layout
+Autenticação
+	Area administrativa (editar noticias, conteudo, publicar eventos, blogs)
+Noticias
+Blogs
+Eventos
+Fotos
